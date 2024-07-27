@@ -20,9 +20,9 @@
   "required": false,
   "value": ""
 },
-    "MONGO_DB": {
-      "description": "your mongodb database url",
-      "required": true,
+    "SESSION_ID": {
+      "description": "Put Your Session ID",
+      "required": false,
       "value": ""
     },
     "TYPEMENU": {
